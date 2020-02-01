@@ -1,0 +1,16 @@
+---
+extends: substitution
+message: Use '%s' instead of '%s'.
+level: error
+ignorecase: true
+swap:
+  linode: Linode
+  linode manager:  Linode Manager
+  Linode CLI: Linode CLI
+  centOS: CentOS
+  debian: Debian
+  fedora: Fedora
+  gentoo: Gentoo
+  openSUSE: OpenSUSE
+  slackware: Slackware
+  ubuntu: Ubuntu
